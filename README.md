@@ -1,13 +1,11 @@
 <h1 align="center">Hello fellas 👋, I'm Thalyson</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thalyson004" alt="thalyson004" /></a> </p>
 
-- 🔭 I’m currently working in **IFCE**
+- 🔭 I’m currently working at **IFCE**
 
 - 🌱 I’m currently learning **Machine Learning and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
-
-- 💬 Ask me about **algorithms, python and dart**
 
 - 📫 How to reach me **thalyson.uece@gmail.com**
 
