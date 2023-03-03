@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **IFCE**
 
-- 🌱 I’m currently learning **Machine Learning and Spring Boot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
