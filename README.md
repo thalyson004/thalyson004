@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalyson004&show_icons=true&locale=en" alt="thalyson004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalyson004&" alt="thalyson004" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
