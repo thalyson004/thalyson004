@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalyson004&show_icons=true&locale=en" alt="thalyson004" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thalyson004)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thalyson004)](https://git.io/streak-stats)
